@@ -1,7 +1,7 @@
 body{
   margin:0;
   background-image: url('start.jpg');
-  background-size: cover;
+  background-size: 100%;
 }
 a {
   color:black;
@@ -35,5 +35,8 @@ h1 {
   }
   h1 {
 border-bottom:none;
+  }
+  #posts{
+    background-color: white;
   }
 }
